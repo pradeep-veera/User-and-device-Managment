@@ -1,0 +1,9 @@
+
+User.php:
+  - Create a new User with login name.
+  - Edit the existing User.
+  - Delete existing User.
+  - Able to search the User from database and displays list of devies that are mapped to User.
+  
+File 'User.php' will not be compilable as it is only one file which has been shared to show my PHP coding skills.
+
